@@ -1,0 +1,51 @@
+{
+  "screen_title": "Выберите магазин",
+  "city_id": 1,
+  "city_name": "Москва",
+  "stores": [
+    {
+      "id": "metro",
+      "name": "METRO",
+      "delivery_type": "nearest_delivery",
+      "delivery_label": "Ближайшая доставка",
+      "delivery_time_text": "сегодня 21:00-23:00",
+      "logo_url": "https://cdn.petrushka-green.ru/partner-stores/metro.png",
+      "background_color": "#FFFFFF",
+      "text_color": "#1A1A1A",
+      "deeplink_url": "https://metro.example.com/petrushka"
+    },
+    {
+      "id": "auchan",
+      "name": "Ашан",
+      "delivery_type": "nearest_delivery",
+      "delivery_label": "Ближайшая доставка",
+      "delivery_time_text": "сегодня 18:00-20:00",
+      "logo_url": "https://cdn.petrushka-green.ru/partner-stores/auchan.png",
+      "background_color": "#FFFFFF",
+      "text_color": "#1A1A1A",
+      "deeplink_url": "https://auchan.example.com/petrushka"
+    },
+    {
+      "id": "vkusvill",
+      "name": "ВкусВилл",
+      "delivery_type": "express_delivery",
+      "delivery_label": "Быстрая доставка",
+      "delivery_time_text": "от 20 до 60 минут",
+      "logo_url": "https://cdn.petrushka-green.ru/partner-stores/vkusvill.png",
+      "background_color": "#FFFFFF",
+      "text_color": "#1A1A1A",
+      "deeplink_url": "https://vkusvill.example.com/petrushka"
+    },
+    {
+      "id": "victoria",
+      "name": "ВИКТОРИЯ",
+      "delivery_type": "nearest_delivery",
+      "delivery_label": "Ближайшая доставка",
+      "delivery_time_text": "сегодня 17:00-19:00",
+      "logo_url": "https://cdn.petrushka-green.ru/partner-stores/victoria.png",
+      "background_color": "#FFFFFF",
+      "text_color": "#1A1A1A",
+      "deeplink_url": "https://victoria.example.com/petrushka"
+    }
+  ]
+}
