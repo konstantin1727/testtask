@@ -1,0 +1,4 @@
+GET /api/v1/partner-stores?city_id=1&limit=20 HTTP/1.1
+Host: api.petrushka-green.ru
+Authorization: Bearer <token>
+Accept: application/json
